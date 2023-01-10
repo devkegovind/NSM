@@ -1,1 +1,2 @@
 # NSM
+Numerical Statistical Methods
